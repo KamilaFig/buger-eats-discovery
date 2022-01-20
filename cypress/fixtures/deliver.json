@@ -1,0 +1,50 @@
+{
+    "signup":{
+        "name": "Kamila Fig",
+            "cpf": "00000014141",
+            "email": "kfigqa@gmail.com",
+            "whatsapp": "85985111111",
+            "address": {
+                "postalcode": "60545241",
+                "street": "Rua Duas Nações",
+                "number": "100",
+                "details": "Ap 1234",
+                "district": "Granja Portugal",
+                "city_state": "Fortaleza/CE"
+            },
+            "delivery_method": "Van/Carro",
+            "cnh":"cnh-digital.jpg"
+    },
+    "invalid_cpf":{
+        "name": "Maria Clara",
+            "cpf": "000A00141AA",
+            "email": "mariaaa@gmail.com",
+            "whatsapp": "85985222222",
+            "address": {
+                "postalcode": "60540125",
+                "street": "Rua Dandara Ketley",
+                "number": "100",
+                "details": "Casa 01",
+                "district": "Granja Lisboa",
+                "city_state": "Fortaleza/CE"
+            },
+            "delivery_method": "Moto",
+            "cnh":"cnh-digital.jpg"        
+    },
+    "invalid_email":{
+        "name": "Anderson Cavalcante",
+            "cpf": "00000014111",
+            "email": "gmail.com",
+            "whatsapp": "85985333333",
+            "address": {
+                "postalcode": "60541492",
+                "street": "Rua Vital Brasil",
+                "number": "100",
+                "details": "Casa 01",
+                "district": "Granja Portugal",
+                "city_state": "Fortaleza/CE"
+            },
+            "delivery_method": "Bike Elétrica",
+            "cnh":"cnh-digital.jpg"        
+    }
+}
